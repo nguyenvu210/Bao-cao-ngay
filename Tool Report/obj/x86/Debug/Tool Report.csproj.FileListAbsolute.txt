@@ -1,0 +1,34 @@
+D:\Design\Tool Report\Tool Report\Tool Report\bin\Debug\Tool Report.exe
+D:\Design\Tool Report\Tool Report\Tool Report\bin\Debug\Tool Report.pdb
+D:\Design\Tool Report\Tool Report\Tool Report\obj\x86\Debug\Tool_Report.ToolReport.resources
+D:\Design\Tool Report\Tool Report\Tool Report\obj\x86\Debug\Tool_Report.Properties.Resources.resources
+D:\Design\Tool Report\Tool Report\Tool Report\obj\x86\Debug\Tool Report.exe
+D:\Design\Tool Report\Tool Report\Tool Report\obj\x86\Debug\Tool Report.pdb
+D:\Design\Tool Report\Tool Report\Tool Report\bin\Debug\Tool Report.exe.manifest
+D:\Design\Tool Report\Tool Report\Tool Report\bin\Debug\Tool Report.application
+D:\Design\Tool Report\Tool Report\Tool Report\obj\x86\Debug\Tool Report.exe.manifest
+D:\Design\Tool Report\Tool Report\Tool Report\obj\x86\Debug\Tool Report.application
+D:\Design\Tool Report\Tool Report\Tool Report\obj\x86\Debug\Tool Report.csprojResolveAssemblyReference.cache
+D:\Design\Tool Report\Tool Report\Tool Report\obj\x86\Debug\Tool Report.csproj.GenerateResource.Cache
+D:\Design\Tool Report\Tool Report\Tool Report\bin\Debug\Tool Report.exe.config
+H:\actiontwo\Datain\manhnv\Tool Report\Tool Report\Tool Report\bin\Debug\Tool Report.exe.config
+H:\actiontwo\Datain\manhnv\Tool Report\Tool Report\Tool Report\obj\x86\Debug\Tool Report.exe
+H:\actiontwo\Datain\manhnv\Tool Report\Tool Report\Tool Report\obj\x86\Debug\Tool Report.pdb
+H:\actiontwo\Datain\manhnv\Tool Report\Tool Report\Tool Report\bin\Debug\Tool Report.exe.manifest
+H:\actiontwo\Datain\manhnv\Tool Report\Tool Report\Tool Report\bin\Debug\Tool Report.application
+H:\actiontwo\Datain\manhnv\Tool Report\Tool Report\Tool Report\bin\Debug\Tool Report.exe
+H:\actiontwo\Datain\manhnv\Tool Report\Tool Report\Tool Report\bin\Debug\Tool Report.pdb
+H:\actiontwo\Datain\manhnv\Tool Report\Tool Report\Tool Report\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\actiontwo\Datain\manhnv\Tool Report\Tool Report\Tool Report\obj\x86\Debug\Tool_Report.ToolReport.resources
+H:\actiontwo\Datain\manhnv\Tool Report\Tool Report\Tool Report\obj\x86\Debug\Tool_Report.Properties.Resources.resources
+H:\actiontwo\Datain\manhnv\Tool Report\Tool Report\Tool Report\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\actiontwo\Datain\manhnv\Tool Report\Tool Report\Tool Report\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\actiontwo\Datain\manhnv\Tool Report\Tool Report\Tool Report\obj\x86\Debug\Tool Report.exe.manifest
+H:\actiontwo\Datain\manhnv\Tool Report\Tool Report\Tool Report\obj\x86\Debug\Tool Report.application
+D:\Tool Report source code\Tool Report\bin\Debug\Tool Report.exe.config
+D:\Tool Report source code\Tool Report\obj\x86\Debug\Tool Report.exe
+D:\Tool Report source code\Tool Report\obj\x86\Debug\Tool Report.pdb
+D:\Tool Report source code\Tool Report\obj\x86\Debug\Tool Report.csprojResolveAssemblyReference.cache
+D:\Tool Report source code\Tool Report\obj\x86\Debug\Tool_Report.ToolReport.resources
+D:\Tool Report source code\Tool Report\obj\x86\Debug\Tool_Report.Properties.Resources.resources
+D:\Tool Report source code\Tool Report\obj\x86\Debug\Tool Report.csproj.GenerateResource.Cache
